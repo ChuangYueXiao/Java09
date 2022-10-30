@@ -41,11 +41,3 @@ public class hw09_05
       CCount.show();
    }
 }
-
-/* output-------------
-cnt=2
-using setZero()...
-cnt=0
-using setValue(10)...
-cnt=10
---------------------*/
